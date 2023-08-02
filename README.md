@@ -46,4 +46,5 @@ We can run http://localhost:4000 in the browser
 We should see this image:
 ![image](https://github.com/AlvinJoyner/Note-Taker/assets/124743421/c984540f-920c-4534-9256-7314d0bebfe2)
 
-## Liscence
+## Licence
+MIT
